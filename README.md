@@ -13,8 +13,8 @@ Automate downloading of information from DCN through the browser using selenium
   - note, you can leave the location blank
   - rename file to config.py
 
----
 ## Run Code
+---
 - to download DCN data[^1]
   > python3 Python_DCN.py
 
