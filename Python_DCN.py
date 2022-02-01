@@ -95,10 +95,9 @@ def main(headless=True, options={}):
     print(f"{bcolors.OKGREEN}{num_results} results found on a total of {num_pages} pages for the company query: {bcolors.ENDC}{s.company_name}")
 
     data = []
-    # i=34
     # Loop through each page
-    # for i in range(1, num_pages+1):
-    for i in range(1, 3):
+    for i in range(1, num_pages+1):
+    # for i in range(1, 3):
         print(f"Parsing page {i} of {num_pages}")
         req_url = f'{query_url}&ccpage={i}'
         driver.get(req_url)
@@ -209,7 +208,7 @@ def main(headless=True, options={}):
 
 
 # Initialize requirement modules. Install all if not installed.
-# subprocess.check_call([sys.executable, '-m', 'pip', 'install', '-r', 'requirements.txt'])
+subprocess.check_call([sys.executable, '-m', 'pip', 'install', '-r', 'requirements.txt'])
 
 # import settings from settings module
 
