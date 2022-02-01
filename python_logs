@@ -1,0 +1,98 @@
+Starting headless
+Starting session.
+
+
+Driver started successfully.
+Current time: 2022-01-31 16:27:49
+[92m346 results found on a total of 35 pages for the company query: [0mPioneer Construction Inc.
+Parsing page 1 of 35
+Parsing page 2 of 35
+Parsing page 3 of 35
+Parsing page 4 of 35
+Parsing page 5 of 35
+Parsing page 6 of 35
+Parsing page 7 of 35
+Parsing page 8 of 35
+Parsing page 9 of 35
+Parsing page 10 of 35
+Parsing page 11 of 35
+Parsing page 12 of 35
+Parsing page 13 of 35
+Parsing page 14 of 35
+Parsing page 15 of 35
+Parsing page 16 of 35
+Parsing page 17 of 35
+Parsing page 18 of 35
+Parsing page 19 of 35
+Parsing page 20 of 35
+Parsing page 21 of 35
+Parsing page 22 of 35
+Parsing page 23 of 35
+Parsing page 24 of 35
+Parsing page 25 of 35
+Parsing page 26 of 35
+Parsing page 27 of 35
+Parsing page 28 of 35
+Parsing page 29 of 35
+Parsing page 30 of 35
+Parsing page 31 of 35
+Parsing page 32 of 35
+Parsing page 33 of 35
+Parsing page 34 of 35
+Starting headless
+Starting session.
+
+
+Driver started successfully.
+Current time: 2022-01-31 16:49:19
+[92m346 results found on a total of 35 pages for the company query: [0mPioneer Construction Inc.
+Parsing page 1 of 35
+Parsing page 2 of 35
+Parsing page 3 of 35
+Parsing page 4 of 35
+Parsing page 5 of 35
+Parsing page 6 of 35
+Parsing page 7 of 35
+Parsing page 8 of 35
+Parsing page 9 of 35
+Parsing page 10 of 35
+Parsing page 11 of 35
+Parsing page 12 of 35
+Parsing page 13 of 35
+Parsing page 14 of 35
+Parsing page 15 of 35
+Parsing page 16 of 35
+Parsing page 17 of 35
+Parsing page 18 of 35
+Parsing page 19 of 35
+Parsing page 20 of 35
+Parsing page 21 of 35
+Parsing page 22 of 35
+Parsing page 23 of 35
+Parsing page 24 of 35
+Parsing page 25 of 35
+Parsing page 26 of 35
+Parsing page 27 of 35
+Parsing page 28 of 35
+Parsing page 29 of 35
+Parsing page 30 of 35
+Parsing page 31 of 35
+Parsing page 32 of 35
+Parsing page 33 of 35
+Parsing page 34 of 35
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".datalist"}
+  (Session info: headless chrome=97.0.4692.99)
+
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".datalist"}
+  (Session info: headless chrome=97.0.4692.99)
+
+Parsing page 35 of 35
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".datalist"}
+  (Session info: headless chrome=97.0.4692.99)
+
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".datalist"}
+  (Session info: headless chrome=97.0.4692.99)
+
+[95mDCN data output saved to file:[0m /Users/mattolinski/Downloads/DCN_data_20220131_165417.csv
+[92mRuntime of the program = 300.98s[0m
+[94mCode ended.[0m

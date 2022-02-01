@@ -1,0 +1,9 @@
+# https://docs.python-guide.org/writing/structure/
+# https://pip.pypa.io/en/stable/reference/requirements-file-format/#requirements-file-format
+
+###### Requirements without Version Specifiers ######
+bs4
+beautifulsoup4
+selenium
+webdriver_manager
+pandas
